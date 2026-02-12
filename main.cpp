@@ -20,11 +20,10 @@ int main(){
     int abBalance=5000;
     // we cant use for,int,mutable,namespace etc.. are identifiers 
     // int for = 50; // Uncomment it
+    const int uid=22323;  // Constant
 
-
-
-    
-
+    // uid =4847;
+    // we cant write a constant value 
 
     return 0;
 }
