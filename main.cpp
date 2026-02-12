@@ -7,6 +7,25 @@ int main(){
     // cout<<"Are You Happy now?2"<<endl;
     // cout<<"Are You Happy now?3"<<endl;
 
+    //  Learning about variables and constants
+
+    int score; //declaration of variable
+    score=100;
+
+
+    int balance =5000;// initialization and declaration of variables
+
+    // Identifiers 
+
+    int abBalance=5000;
+    // we cant use for,int,mutable,namespace etc.. are identifiers 
+    // int for = 50; // Uncomment it
+
+
+
+    
+
+
     return 0;
 }
 // Commenting:
