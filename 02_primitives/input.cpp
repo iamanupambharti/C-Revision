@@ -12,7 +12,7 @@ int main (){
 
     //Ask for quantity
 
-    cout << "how many cups of" << userTea << "Would you like to have ?";
+    cout << "how many cups of" << userTea << "would you like to have ?";
     cin>>teaQuantity;
 
     cout <<teaQuantity <<endl;
