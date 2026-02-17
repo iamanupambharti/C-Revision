@@ -11,8 +11,8 @@ int main (){
 
 
     if (cups> 20){
-        cout<<"You will get a Gold Badge";
-    } else if (cups >10 && cups<20){
+        cout<<"You will get a Gold Badge"<<endl;  
+    } else if (cups >=10 && cups<=20){
         cout<< "You will get Silver Badge"<< endl;
     }
     else{
